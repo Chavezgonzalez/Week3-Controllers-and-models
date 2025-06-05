@@ -35,7 +35,7 @@ Week3-Controllers-and-models/
 
 Clona este repositorio:
 
-git clone https://github.com/TU_USUARIO/Week3-Controllers-and-models.git
+git clone https://github.com/Chavezgonzalez/Week3-Controllers-and-models.git
 
 Entra al proyecto:
 
